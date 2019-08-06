@@ -1,0 +1,2 @@
+visual studio code기준
+- alt + b : html파일에서 브라우저에 바로 오픈
